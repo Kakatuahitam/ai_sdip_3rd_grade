@@ -1,9 +1,0 @@
-@font-face {
-  font-family: "PlusJakartaSansRegular";
-  src: url("fonts/PlusJakartaSans-Regular.ttf");
-}
-
-:root {
-  --pst-font-family-base-system: "PlusJakartaSansRegular";
-
-}

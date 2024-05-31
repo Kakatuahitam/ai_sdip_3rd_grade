@@ -1,0 +1,25 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: b00b87e2-890b-45a7-b0c3-412ef2800e33
+  title: AI for 3rd Grade - SD Islam Pembangunan
+  # description:
+  keywords: []
+  author:
+    - name: Yuda Kurnia Nurul Fikri
+      orcid: 0009-0009-4712-2965
+      affiliations:
+        - SD Islam Pembangunan
+  # authors: [Yuda Kurnia Nurul Fikri]
+  # github:
+  # bibliography: []
+site:
+  template: book-theme
+  title:
+  options:
+    logo: logo.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []

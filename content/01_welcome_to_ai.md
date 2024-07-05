@@ -143,4 +143,8 @@ https://scratch.mit.edu/studios/146521
 <!-- separate this into an individual page to reduce load -->
 :::{iframe} https://scratch.mit.edu/projects/1044022680/embed
 Let's know what is AI here
+
+How to control:
+{kbd}`Up`, {kbd}`Down`, {kbd}`Left`, or {kbd}`Right`
+
 :::

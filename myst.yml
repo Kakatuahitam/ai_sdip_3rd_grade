@@ -10,6 +10,7 @@ project:
       orcid: 0009-0009-4712-2965
       affiliations:
         - SD Islam Pembangunan
+  github: https://github.com/Kakatuahitam/ai_sdip_3rd_grade
   # authors: [Yuda Kurnia Nurul Fikri]
   # github:
   # bibliography: []
@@ -20,6 +21,6 @@ site:
     logo: logo.png
   nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: SD Islam Pembangunan Website
+      url: https://sdi.pembangunan.sch.id
   domains: []

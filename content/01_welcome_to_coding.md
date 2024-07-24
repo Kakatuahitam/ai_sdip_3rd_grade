@@ -1,4 +1,9 @@
 ---
+date: 2024-07-13
+exports:
+  - format: pdf
+    template: cageo
+    output: exports/01_Welcome_To_Coding.pdf
 jupytext:
   formats: md:myst
   text_representation:
@@ -12,44 +17,29 @@ kernelspec:
   name: python3
 ---
 
-# [01] Welcome to Artificial Intelligence
-
-<!--
-Module Identity
-Module material (uraian)
-Learning Evaluation / knowledge test.
-Summary
-Extension / task assignment
-References (automatically. add at references.bib)
- -->
+# [01] Welcome to Coding!
 <!--  -->
-
-:::{note} Module Identity
-:class: dropdown
-:::
-
 Hi, we recite Basmallah together before start our session
 
 > **Bismillahirrahmanirrahim**
 
-## Getting to know to Artificial Intelligence
+## Getting to know to Coding
 ### [Introduction]
 
 Let's watch this video first:
 
-:::{iframe} https://www.youtube.com/embed/kQPC4_DsJ8I?si=Qal20dQ9D982swhW
-Let's know what is AI here
+:::{iframe} https://www.youtube.com/embed/g1J4181W8ss?si=DxjCDpYGl67qL_-x
+Let's know what is Coding here
 :::
 
 :::{hint} What we learn for this session? Click me!
 :class: dropdown
+We are going to know what is Coding really is by some approach. Either you are Grade 3, 4, or 5, we need to know this one first before deep diving into Coding subject along this academic year and the future 😊🚀
 
-We are going to know what is Artificial Intelligence by some approach. Human and AI has similarities on their Intelligence. After that we will trying to play with AI on Quick, Draw!
-
-Then we will observe Scratch application by drawing what kind of blocks there are on an F4 Paper. You may draw it with colorful coloring tools or just black and white with beautiful shadows.
+In this session we will get our hands wet by exploring Scratch app on our lovely android device. Do not tell me that you have not installed it yet, but if is not, we wait for you to install.
 :::
 
-So what is Artificial Intelligence?
+<!-- So what is Artificial Intelligence?
 
 **Artificial Intelligence** is an intelligence in form of machine that can think and learn like human does.
 
@@ -59,22 +49,33 @@ Artificial Intelligence is created for doing tasks that human are not too effici
 1. Do recognize writings even it is old Egyptian writings
 1. Controlling a drone without collapsing other objects
 1. Finding how to manage Jakarta traffic much more better
-1. and many more,
+1. and many more, -->
+
+In simple term, Coding is an activity that we do to give instructions via a specific language to the Computer. You are not misread it that Coding is also an language subject but it specifically created for telling, instruct, interacting, etc. to a Computer even many Computers at once!
+
+Along this academic year, we learn Coding by using Block Programming approach so that's why we are using Scratch 3.0 application as it uses Block Programming paradigm.
+
+Block Programming is a fun and friendly paradigm for children and also adult that we drag and drop blocks to create instruction for Computer. We will dive into it in the next part!
 
 ---
 ### [Connection]
 
-:::{tip} Do you know what other things that Artificial Intelligence do better than human? Mention it and share with your friends!
+:::{tip} Coding is literally writing an instruction to a computer. So, we will do identify some parts involved!
 :::
 
-Let's breakdown what human intelligence and Artificial Intelligence has:
-```{csv-table} Comparison on Human Intelligence and Artificial Intelligence
-:header: "Human Intelligence", "Artificial Intelligence", "Function"
-"Eye", "Computer Vision", "To see and perceive visible objects in world",
-"Brain", "AI Model", "To think what and how to reach a goal",
-"Body and Limbs", "Robot", "A physical body for Artificial Intelligence",
+Let's identify what are the parts involved in Coding!
+
+```{csv-table} Coding parts
+:header: "What", "is...", "Function"
+"The Actor", "is called Coder", "Writes a code in specific computer language for computers and other humans",
+"The Stuff", "is called Code", "Code is a bunch of text (computer instruction) written in specific programming language to be translated by computer and then the computer execute it into actionable instruction",
+"The Executor", "is called Computer", "It is an entity of living creature made by human to simplify human tasks that is done faster, repeated, complex at a time by the computer",
 ```
-And many more similarities...
+
+And yes, they are some parts that involves in Coding.
+
+:::{hint} Can you mention other parts that involved in Coding too? Tell your friends and discuss it with your Guardian or Teacher!
+:::
 
 ---
 
@@ -121,18 +122,19 @@ We will do this as our extension activity for this session
 | ⭐⭐⭐⭐⭐     | 11 kinds of object |
 :::
 
-:::{note} Knowledge Recap
-:class: dropdown
-:::
-
 ### [Reflection]
 
-:::{note} Summary
+So, what are the function of Scratch in Coding learning?
+
+:::{hint} We learn Scratch application aiming...:
 :class: dropdown
+
+1. To learn and master coding, we use Scratch as our very first step in Coding.
+1. To create a simple program to make our task easier.
+1. To build logical thinking ability so that we can solve problems in better and fluent way
 :::
 
-
-So, what are the function of Scratch in learning Artificial Intelligence?
+<!-- So, what are the function of Scratch in learning Artificial Intelligence?
 
 :::{hint} We learn Scratch program aiming...:
 :class: dropdown
@@ -140,9 +142,7 @@ So, what are the function of Scratch in learning Artificial Intelligence?
 1. To create an application, we use Scratch as our very first step in programming
 1. To create an app with Artificial Intelligence, we need to practice some thinking logic, so by block programming we will understand how computer (AI) thinks
 1. What will we get from learning Scratch in Artitifical Intelligence subject? Feel free to share with everyone!
-:::
-
-
+::: -->
 
 ---
 ### [Extension]
@@ -152,7 +152,6 @@ To be more diligent, try to explore any menus, pages, or buttons in Scratch and 
 In the next meeting, we will create a simple code to control the Scratch cat. Do explore Scratch application and you will be familiar as soon as you explore more!
 
 See ya on the next session!
-
 
 
 :::{hint} Look at me too!
@@ -168,7 +167,8 @@ https://scratch.mit.edu/studios/146521
 
 <!-- separate this into an individual page to reduce load -->
 :::{iframe} https://scratch.mit.edu/projects/1044022680/embed
-Let's know what is AI here
+Let's try some Coding can do here
+(if it says Our server is Scratching its head means that it is error. Come back again to try it later!)
 
 How to control:
 {kbd}`Up`, {kbd}`Down`, {kbd}`Left`, or {kbd}`Right`

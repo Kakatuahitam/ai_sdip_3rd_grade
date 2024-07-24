@@ -13,7 +13,7 @@ parts:
     chapters:
     # 1 content for 4JP
 
-    - file: content/01_welcome_to_ai
+    - file: content/01_welcome_to_coding
     # Installing Scratch app and getting know its UI and Components
     # Code, Customes, Sounds, Sprites, and Backdrops
     - file: content/02_scratching_first_program

@@ -19,7 +19,7 @@ parts:
     - file: content/02_scratching_first_program
     # Starting to code a simple project
     # Events and Motion
-    - file: content/03_walking_the_cat
+    - file: content/03_move_your_body_1
     # Looks and Sound
     - file: content/04_crash_into_wall
     # Sensing

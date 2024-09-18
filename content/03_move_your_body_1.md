@@ -94,6 +94,7 @@ Then, this is the result if you do it correctly
 :::{tip} 4. And do not forget to add starter code. Here is the final code for the ⬆️ arrow
 :class: dropdown
 ```{figure} ../_static/images/content/03/up_arrow_code.png
+:label: test
 :align: center
 ```
 :::

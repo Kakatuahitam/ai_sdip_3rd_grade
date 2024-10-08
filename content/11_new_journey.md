@@ -100,4 +100,6 @@ flowchart RL
   F[Coding Elite] --> A
 ```
 
+[Click here to go to our Canva Coding Whiteboard!](https://www.canva.com/design/DAGS9MRX7D0/YeNaldGTp_cfa6wjArRMtQ/edit)
+
 And see ya on the next meeting!

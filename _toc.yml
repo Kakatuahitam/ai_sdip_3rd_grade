@@ -11,27 +11,32 @@ parts:
 
   - caption: Contents
     chapters:
+    - file: content/00_part1
     # 1 content for 4JP
+      sections:
+        - file: content/01_welcome_to_coding
+        # Installing Scratch app and getting know its UI and Components
+        # Code, Customes, Sounds, Sprites, and Backdrops
+        - file: content/02_scratching_first_program
+        # Starting to code a simple project
+        # Events and Motion
+        - file: content/03_move_your_body_1
+        # Looks and Sound
+        - file: content/04_crash_into_wall
+        # Sensing
+        - file: content/05_sts
+        # Simple maze program
+        - file: content/06_add_some_logics
+        # Operator and Variables
+        - file: content/07_asking_the_user
+        # Operator and Variables
+        - file: content/08_shooter_game
+        - file: content/09_shooter_game
+        - file: content/10_sas
 
-    - file: content/01_welcome_to_coding
-    # Installing Scratch app and getting know its UI and Components
-    # Code, Customes, Sounds, Sprites, and Backdrops
-    - file: content/02_scratching_first_program
-    # Starting to code a simple project
-    # Events and Motion
-    - file: content/03_move_your_body_1
-    # Looks and Sound
-    - file: content/04_crash_into_wall
-    # Sensing
-    - file: content/05_sts
-    # Simple maze program
-    - file: content/06_add_some_logics
-    # Operator and Variables
-    - file: content/07_asking_the_user
-    # Operator and Variables
-    - file: content/08_shooter_game
-    - file: content/09_shooter_game
-    - file: content/10_sas
+    - file: content/11_new_journey
+
+
 
   #
   #   - file: content/b_intracurricula_blueprint/index # B. INTRACURRICULA

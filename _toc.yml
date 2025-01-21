@@ -33,9 +33,10 @@ parts:
         - file: content/08_shooter_game
         - file: content/09_shooter_game
         - file: content/10_sas
+        - file: content/11_new_journey
 
-    - file: content/11_new_journey
-
+    - file: content/13_effects
+    - file: content/14_compliment_card
 
 
   #

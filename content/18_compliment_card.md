@@ -1,4 +1,4 @@
-# [14] Digital Compliment Card
+# [18] Digital Compliment Card
 
 You may get wondering how the project from **ReinGear** could be used for the compliment card concept. The stunning parallax effect makes wanting to create the same. So, before that, let's the pray begin!
 

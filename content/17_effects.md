@@ -1,4 +1,4 @@
-# [13] Effects on Visual Graphics
+# [17] Effects on Visual Graphics
 
 Welcome back to our beloved school, buddies!
 As long time no see, you must have learn more about anything you like to do. Surely you also have played some game that have immersive interaction on it. The immersion starts from the stunning visual effects combining with the relaxing or intuisive sound.

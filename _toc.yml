@@ -35,8 +35,8 @@ parts:
         - file: content/10_sas
         - file: content/11_new_journey
 
-    - file: content/13_effects
-    - file: content/14_compliment_card
+    - file: content/17_effects
+    - file: content/18_compliment_card
 
 
   #

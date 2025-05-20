@@ -186,5 +186,74 @@ The buff creates its clone in every level except the finish screen, it should on
 ```
 :::
 
+::::
+
+#### Stage Codes
+```{image} ../../_static/images/content/sat/stage.png
+:alt: Stage Codes
+:align: left
+```
+
+::::{tab-set}
+
+:::{tab-item} 0
+:sync: stage-00
+Tap the 1 tab to see the code
+:::
+
+:::{tab-item} 1
+:sync: stage-01
+**Stage initial state**
+
+The stage starts at level 1 backdrop and play the background music
+```{image} ../../_static/images/content/sat/stage-01.png
+:alt: Stage Code 01
+:align: center
+```
+:::
+
+:::{tab-item} 2
+:sync: stage-02
+**Stage initial state too**
+
+The stage also set the initial points and decrease it along the game
+```{image} ../../_static/images/content/sat/stage-02.png
+:alt: Stage Code 02
+:align: center
+```
+:::
+
+:::{tab-item} 3
+:sync: stage-03
+**Stage detects when to lose the game**
+
+The stage knows it by detecting the current points value, if it is equal to 0 or negative, it will directly force the game to the game end screen
+```{image} ../../_static/images/content/sat/stage-03.png
+:alt: Stage Code 03
+:align: center
+```
+:::
+
+:::{tab-item} 4
+:sync: stage-04
+**Stage when on game end screen**
+
+The stage will stop other stage scripts, play the game end music, then stop any code
+```{image} ../../_static/images/content/sat/stage-04.png
+:alt: Stage Code 04
+:align: center
+```
+:::
+
+:::{tab-item} 5
+:sync: stage-05
+**Stage backdrops**
+
+The stage has many levels and one game end screen
+```{image} ../../_static/images/content/sat/stage-05.png
+:alt: Stage Code 05
+:align: center
+```
+:::
 
 ::::

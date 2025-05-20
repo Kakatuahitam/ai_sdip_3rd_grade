@@ -2,7 +2,7 @@
 version: 1
 project:
   id: b00b87e2-890b-45a7-b0c3-412ef2800e33
-  title: AI for 3rd Grade - SD Islam Pembangunan
+  title: Coding for 3rd Grade - SD Islam Pembangunan
   # description:
   keywords: []
   author:
@@ -14,6 +14,85 @@ project:
   # authors: [Yuda Kurnia Nurul Fikri]
   # github:
   # bibliography: []
+
+  toc:
+    - file: intro.md
+    - file: prerequisites
+    - file: glossary
+
+    - title: Preamble
+      children:
+        - file: lga.md # ACP
+        - file: lga.md # TP
+        - file: lga.md # ATP
+        - file: lga.md # Module Scope
+
+
+    # In each page, consists of
+    # 1. Identity and Module Biodata
+    # 2. CP TP ATP
+    # 3. Kegiatan Pembelajaran
+    # 4. Materi Ajar
+    # 5. Evaluasi Pembelajaran rapor pendidikan & p5ra
+    # 6. Rangkumam
+    # 7. Tugas
+    - title: Semester 1
+      children:
+        - file: content/s1/01_welcome.md
+        - file: content/s1/02_hands-on.md
+        - file: content/s1/03_sprites-states.md
+        - file: content/s1/04_environment.md
+        - file: content/s1/05_hear-me.md
+        - file: content/s1/06_virtual-world.md
+        - file: content/s1/07_virtualizing.md
+        - file: content/s1/08_i-am-in.md
+        - file: content/s1/09_my-name.md
+        - file: content/s1/10_live-in.md
+        - file: content/s1/11_say-hi.md
+        - file: content/s1/12_play-ball.md
+        - file: content/s1/13_eat-this.md
+        - file: content/s1/14_catch.md
+        - file: content/s1/15_how-many-tries.md
+        - file: content/s1/16_everywhere.md
+
+    - title: Semester 2
+      children:
+        - file: content/s2/sat_ball_escape.md
+        - file: content/s2/17_counting.md
+        - file: content/s2/18_shoot-and-reload.md
+        - file: content/s2/19_hello-dear.md
+        - file: content/s2/20_you-are-here.md
+        - file: content/s2/21_going-home.md
+        - file: content/s2/22_save-the-earth.md
+        - file: content/s2/23_yes-or-no.md
+        - file: content/s2/24_i-am-number-one.md
+        - file: content/s2/25_my-mouse.md
+        - file: content/s2/26_ouch-dizzy.md
+        - file: content/s2/27_go-to-space.md
+        - file: content/s2/28_shark.md
+        - file: content/s2/29_fire-on-building.md
+        - file: content/s2/30_fly-hunting.md
+        - file: content/s2/31_ball-shoot.md
+        - file: content/s2/32_turn-the-lamp-off.md
+
+    - title: Supplementary
+      children:
+        - file: content/supp/01_welcome_to_coding.md
+        - file: content/supp/02_scratching_first_program.md
+        - file: content/supp/03_move_your_body_1.md
+        - file: content/supp/11_new_journey.md
+        - file: content/supp/17_effects.md
+        - file: content/supp/18_compliment_card.md
+        - file: content/supp/21_touch_trigger.md
+        - file: content/supp/24_color_interaction.md
+        - file: content/supp/25_one_color_one_action.md
+
+    - file: bibliography
+    - file: attachment # lampiran biodata penulis
+  references:
+    spec: https://mystmd.org/spec
+    ai-note: https://kakatuahitam.github.io/ai_sdip
+
 site:
   template: book-theme
   title:

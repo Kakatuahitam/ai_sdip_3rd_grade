@@ -1,30 +1,11 @@
----
-date: 2024-07-13
-exports:
-  - format: pdf
-    template: cageo
-    output: exports/01_Welcome_To_Coding.pdf
-jupytext:
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
-
-# [01] Welcome to Coding!
+# [01] Welcome to Scratch 3.0
 <!--  -->
 Hi, we recite Basmallah together before start our session
 
 > **Bismillahirrahmanirrahim**
 
 ## Getting to know to Coding
-### [Introduction]
+<!-- ### [Introduction] -->
 
 Let's watch this video first:
 
@@ -58,7 +39,7 @@ Along this academic year, we learn Coding by using Block Programming approach so
 Block Programming is a fun and friendly paradigm for children and also adult that we drag and drop blocks to create instruction for Computer. We will dive into it in the next part!
 
 ---
-### [Connection]
+<!-- ### [Connection] -->
 
 :::{tip} Coding is literally writing an instruction to a computer. So, we will do identify some parts involved!
 :::
@@ -100,7 +81,7 @@ We are going to Scratch application now
 :::{hint} Tips! Try to zoom in and out the image to see it clearer!
 :::
 ---
-### [Application]
+<!-- ### [Application] -->
 
 In this picture, you are seeing many objects in it. Starting from a large blank panel and also an iconic Scratch Cat on the top right.
 
@@ -122,7 +103,7 @@ We will do this as our extension activity for this session
 | ⭐⭐⭐⭐⭐     | 11 kinds of object |
 :::
 
-### [Reflection]
+<!-- ### [Reflection] -->
 
 So, what are the function of Scratch in Coding learning?
 
@@ -145,7 +126,7 @@ So, what are the function of Scratch in Coding learning?
 ::: -->
 
 ---
-### [Extension]
+<!-- ### [Extension] -->
 
 To be more diligent, try to explore any menus, pages, or buttons in Scratch and draw it in the previous task!
 
@@ -166,7 +147,7 @@ https://scratch.mit.edu/studios/146521
 :::
 
 <!-- separate this into an individual page to reduce load -->
-:::{iframe} https://scratch.mit.edu/projects/1044022680/embed
+:::{iframe} https://scratch.mit.edu/projects/1171766486/embed
 Let's try some Coding can do here
 (if it says Our server is Scratching its head means that it is error. Come back again to try it later!)
 

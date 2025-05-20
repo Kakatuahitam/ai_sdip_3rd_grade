@@ -44,10 +44,15 @@ To make it clear, let's dive in deeper into the code:
 :align: left
 ```
 
-
 ::::{tab-set}
+
+:::{tab-item} 0
+:sync: ball-00
+Tap the 1 tab to see the code
+:::
+
 :::{tab-item} 1
-:sync: 01
+:sync: ball-01
 **Color detection**
 
 The ball should detect these 3 colors
@@ -58,7 +63,7 @@ The ball should detect these 3 colors
 :::
 
 :::{tab-item} 2
-:sync: 02
+:sync: ball-02
 **The ball direction**
 
 The ball always points to the cursor/touch
@@ -69,7 +74,7 @@ The ball always points to the cursor/touch
 :::
 
 :::{tab-item} 3
-:sync: 03
+:sync: ball-03
 **The ball movement**
 
 The ball movement is also affected by speed value
@@ -80,7 +85,7 @@ The ball movement is also affected by speed value
 :::
 
 :::{tab-item} 4
-:sync: 04
+:sync: ball-04
 **The ball initial state**
 
 The ball position starts from the left bottom, clear any graphic effects, and make it small
@@ -91,7 +96,7 @@ The ball position starts from the left bottom, clear any graphic effects, and ma
 :::
 
 :::{tab-item} 5
-:sync: 05
+:sync: ball-05
 **The ball detects when the backdrop changes to finish**
 
 The ball will stop other ball scripts and move to the center, then rotate, grow, and brighten
@@ -100,4 +105,86 @@ The ball will stop other ball scripts and move to the center, then rotate, grow,
 :align: center
 ```
 :::
+::::
+
+#### Buff Orb
+```{image} ../../_static/images/content/sat/buff.png
+:alt: Buff Orb
+:align: left
+```
+
+::::{tab-set}
+
+:::{tab-item} 0
+:sync: buff-00
+Tap the 1 tab to see the code
+:::
+
+:::{tab-item} 1
+:sync: buff-01
+**Blink ability**
+
+The buff defines how to blink by clear the graphic effects first, then adjust its size and show itself, then it alternates its brightness
+```{image} ../../_static/images/content/sat/buff-01.png
+:alt: Buff Orb Code 01
+:align: center
+```
+:::
+
+:::{tab-item} 2
+:sync: buff-02
+**Make clone ability**
+
+The buff defines how to clone itself, it will delete any existing clone first, then repeatly create its clone according the number it received
+```{image} ../../_static/images/content/sat/buff-02.png
+:alt: Buff Orb Code 02
+:align: center
+```
+:::
+
+:::{tab-item} 3
+:sync: buff-03
+**Buff orb initial state**
+
+The buff initially hidden, and it set the initial speed value to 0
+```{image} ../../_static/images/content/sat/buff-03.png
+:alt: Buff Orb Code 03
+:align: center
+```
+:::
+
+:::{tab-item} 4
+:sync: buff-04
+**Buff clones behaviour**
+
+The buff clones will blink and monitor if it is touched by the basketball, it will count up the speed and points, then disappear
+```{image} ../../_static/images/content/sat/buff-04.png
+:alt: Buff Orb Code 04
+:align: center
+```
+:::
+
+:::{tab-item} 5
+:sync: buff-05
+**Buff receives broadcast of deleteClone**
+
+The buff must delete any clones based on a call
+```{image} ../../_static/images/content/sat/buff-05.png
+:alt: Buff Orb Code 05
+:align: center
+```
+:::
+
+:::{tab-item} 6
+:sync: buff-06
+**Buff cloning**
+
+The buff creates its clone in every level except the finish screen, it should only delete any clone available
+```{image} ../../_static/images/content/sat/buff-06.png
+:alt: Buff Orb Code 06
+:align: center
+```
+:::
+
+
 ::::

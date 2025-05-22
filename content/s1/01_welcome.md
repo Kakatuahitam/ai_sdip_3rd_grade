@@ -41,7 +41,7 @@ Block Programming is a fun and friendly paradigm for children and also adult tha
 ---
 <!-- ### [Connection] -->
 
-:::{tip} Coding is literally writing an instruction to a computer. So, we will do identify some parts involved!
+:::{tip} Coding is literally writing an instruction to a computer. So, we will do identify some parts involved! Like English subject, it requires you to know the grammar to tell something right with the sentences, so does the Coding subject!
 :::
 
 Let's identify what are the parts involved in Coding!
@@ -72,7 +72,7 @@ To run Scratch, you may open it on browsers or install it for Google Play Store
 
 We are going to Scratch application now
 
-```{image} ../_static/images/blank-project.png
+```{image} ../../_static/images/blank-project.png
 :label: Blank Project Page on Scratch 3.0
 :alt: Blank Project Page on Scratch 3.0
 :align: center
@@ -135,23 +135,27 @@ In the next meeting, we will create a simple code to control the Scratch cat. Do
 See ya on the next session!
 
 
-:::{hint} Look at me too!
+::::{hint} Look at me too!
 :class: dropdown
 
-Explore this Scratch project to get know about Scratch better
-https://scratch.mit.edu/projects/1028627134
+Explore this one to know more the components in Scratch 3.0!
+
+:::{iframe} https://scratch.mit.edu/projects/1028627134/embed
+
+:::
 
 For more example, explore this web page
 https://scratch.mit.edu/studios/146521
 
-:::
+::::
+
+Our final (end year) project approximately will be like this! A Basketball Maze!
 
 <!-- separate this into an individual page to reduce load -->
-:::{iframe} https://scratch.mit.edu/projects/1171766486/embed
+:::{iframe} https://scratch.mit.edu/projects/1175372410/embed
 Let's try some Coding can do here
 (if it says Our server is Scratching its head means that it is error. Come back again to try it later!)
 
 How to control:
-{kbd}`Up`, {kbd}`Down`, {kbd}`Left`, or {kbd}`Right`
-
+Touch the screen, the basketball will follow you! Never reach the zero points or you will lose!
 :::

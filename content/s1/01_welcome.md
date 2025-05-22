@@ -159,3 +159,10 @@ Let's try some Coding can do here
 How to control:
 Touch the screen, the basketball will follow you! Never reach the zero points or you will lose!
 :::
+
+And we start the step by code this project below
+:::{iframe} https://scratch.mit.edu/projects/1178346849/embed
+
+How to control:
+Just touch the cat!
+:::
